@@ -16,8 +16,9 @@
 噪音图
 ![展示图片](image-2/NoisyNoGuidenceImgs.png)
 
-$\color{red}{生成图}$
+生成图
 ![展示图片](image-2/SampledNoGuidenceImgs.png)
 
+$\color{red}{环境需要ddpm，自行打包ddpm的环境}$
 
 
